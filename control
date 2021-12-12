@@ -1,0 +1,9 @@
+Package: com.haotestlabs.discordshowall
+Name: DiscordShowAll
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Make Discord show all Twitter images instead of just one!
+Maintainer: Arandomdev <haow6449@gmail.com>
+Author: Arandomdev <haow6449@gmail.com>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)

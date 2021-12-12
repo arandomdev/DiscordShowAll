@@ -1,0 +1,5 @@
+.cache
+.theos
+.vscode
+packages
+compile_commands.json
